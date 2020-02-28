@@ -1,0 +1,20 @@
+
+#title{
+    display: flex;
+    justify-content: center;
+}
+
+[id^="contenedor"]{
+    display: flex;
+    justify-content: center;
+}
+
+.civ{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    border: 2px solid;
+    padding: 10px;
+    margin-top: 15px;
+    width: 50%;
+}
